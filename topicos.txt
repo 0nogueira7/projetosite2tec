@@ -1,0 +1,16 @@
+1 patrona: celia ribeiro
+2 premios:
+3 eventos:
+4 professores:
+5 alunos detacados:
+6 fotos:
+7 criação:
+8 historia antes da celia:
+9 filosofia escolar (protagonismo): 
+10 estatisticas:
+11 logo:
+12 diretor (biografia):
+13 calendario:
+14 curso tecnico:
+15 horarios:
+16 creditos: joão vitor, rebeca, luicky, yuri calebhe, matheus nogueira, gabriel mendes 2º tec
